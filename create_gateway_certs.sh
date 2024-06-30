@@ -273,6 +273,3 @@ print_color "$MAGENTA" """
 cd $WORKINGDIR/$GATEWAY_EUI
 $WORKINGDIR/basicstation/build-corecell-std/bin/station -h $WORKINGDIR/$GATEWAY_EUI -d -L station.log
 
-
-# cd "$WORKINGDIR"
-# rm -rf basicstation/ sx1302_hal/
